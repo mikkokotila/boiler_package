@@ -14,7 +14,7 @@ MAINTAINER_EMAIL = 'mailme@mikkokotila.com'
 URL = 'http://github.com/mikkokotila/boiler_package'
 LICENSE = 'MIT'
 DOWNLOAD_URL = 'http://github.com/mikkokotila/boiler_package'
-VERSION = '0.0.4'
+VERSION = '0.0.5'
 
 try:
     from setuptools import setup
