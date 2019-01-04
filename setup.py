@@ -50,7 +50,7 @@ if __name__ == "__main__":
           version=VERSION,
           download_url=DOWNLOAD_URL,
           install_requires=install_requires,
-          packages=['boiler_package'],
+          packages=['boiler_package', 'boiler_package.commands'],
 
           classifiers=[
                  'Intended Audience :: Science/Research',
