@@ -47,7 +47,7 @@ Talos is made for data scientists and data engineers that want to remain in **co
 
 ### Examples
 
-The *Simple* example is enough to start using Talos with any Keras model.
+The *Simple* example is enough to start using Talos with any Keras model. *Field Report* has +2,600 claps on Medium because it's more entertaining.
 
 [Simple](https://nbviewer.jupyter.org/github/autonomio/talos/blob/master/examples/A%20Very%20Short%20Introduction%20to%20Hyperparameter%20Optimization%20of%20Keras%20Models%20with%20Talos.ipynb)  [1-2 mins]
 
@@ -56,10 +56,9 @@ The *Simple* example is enough to start using Talos with any Keras model.
 [Comprehensive](https://nbviewer.jupyter.org/github/autonomio/talos/blob/master/examples/Hyperparameter%20Optimization%20with%20Keras%20for%20the%20Iris%20Prediction.ipynb)  [~10 mins]
 
 
-[Field Report]
-(https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53)  [~15 mins]
+[Field Report](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53)  [~15 mins]
 
-For more information on how Talos can help with your Keras workflow, visit the [User Manual](https://autonomio.github.io/docs_talos)
+For more information on how Talos can help with your Keras workflow, visit the [User Manual](https://autonomio.github.io/docs_talos).
 
 ### Install 
 
@@ -71,6 +70,6 @@ Daily development version:
 
     pip install git+https://github.com/autonomio/talos.git@daily-dev
 
-### Hyperparameter Optimization 
+### License 
 
-We provide a detailed field report for [Report on Hyperparameter Optimization with Keras](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53)
+[MIT License](https://github.com/autonomio/talos/blob/master/LICENSE)
