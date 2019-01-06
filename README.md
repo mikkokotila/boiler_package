@@ -12,6 +12,10 @@
     <img src="https://img.shields.io/travis/autonomio/talos/master.svg?style=for-the-badge&logo=appveyor" alt="Talos Travis">
   </a>
 
+  <a href="https://coveralls.io/github/autonomio/talos">
+    <img src="https://img.shields.io/coveralls/github/autonomio/talos.svg?style=for-the-badge&logo=appveyor" alt="Talos Coveralls">
+  </a>
+
 </p>
 
 <p align="center">
