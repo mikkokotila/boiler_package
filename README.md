@@ -100,7 +100,9 @@ Daily development version:
 
 ### Support
 
-If you want ask a *"how can I use Talos to..."* or *"I'm following the examples but I'm getting this..."* the right place is [StackOverflow](https://stackoverflow.com/questions/ask). 
+Check the [Docs](https://autonomio.github.io/docs_talos) which is generally keeping up with Master (and pip package). 
+
+If you want ask a **"how can I use Talos to..."** question, the right place is [StackOverflow](https://stackoverflow.com/questions/ask). 
 
 If you found a bug or want to suggest a feature, check the [issues](https://github.com/autonomio/talos/issues) or [create](https://github.com/autonomio/talos/issues/new/choose) a new issue.
 
