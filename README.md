@@ -31,7 +31,7 @@
   <a href="#Install">Install</a> •
   <a href="https://autonomio.github.io/docs_talos">Docs</a> •
   <a href="https://github.com/autonomio/talos/issues">Issues</a> •
-  <a href="#License">License</a>
+  <a href="#License">License</a> •
   <a href="https://github.com/autonomio/talos/archive/master.zip">Download</a>
 </p>
 <hr>
