@@ -7,16 +7,17 @@
 <h4 align="center">Hyperparameter Optimization for Keras</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg" alt="Gitter">
+  
+  <a href="https://travis-ci.org/autonomio/talos">
+    <img src="https://img.shields.io/travis/autonomio/talos/master.svg" alt="Talos Travis">
   </a>
   
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify">
-    <img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg">
+  <a href="https://coveralls.io/github/autonomio/talos?branch=master">
+    <img src="https://coveralls.io/repos/github/autonomio/talos/badge.svg?branch=master">
   </a>
   
   <a href="https://saythanks.io/to/amitmerchant1990">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+     <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
   </a>
   
   <a href="https://www.paypal.me/AmitMerchant">
