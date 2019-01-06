@@ -26,14 +26,12 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
+  <a href="#key-features">Hyperparameter Tuning</a> •
+  <a href="#how-to-use">Examples</a> •
+  <a href="#download">Docs</a> •
+  <a href="#credits">Install</a> •
+  <a href="#related">Issues</a> •
   <a href="#license">License</a>
 </p>
-
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
 
 <img src='https://i.ibb.co/3NFH646/keras-model-to-talos.gif' width=550px>
