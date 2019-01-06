@@ -78,7 +78,7 @@ Talos works on **Linux, Mac OSX**, and **Windows** systems and can be operated c
 
 ### Examples
 
-Get the below code [here](https://gist.github.com/mikkokotila/4c0d6298ff0a22dc561fb387a1b4b0bb).
+Get the below code [here](https://gist.github.com/mikkokotila/4c0d6298ff0a22dc561fb387a1b4b0bb). More examples below.
 
 <img src=https://i.ibb.co/tZSPk5g/Screen-Shot-2019-01-06-at-11-15-27-PM.png>
 
