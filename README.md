@@ -33,5 +33,10 @@
   <a href="#related">Issues</a> •
   <a href="#license">License</a>
 </p>
+<br>
 
+Talos radically changes the ordinary Keras workflow by fully automating hyperparameter tuning and model evaluation. Talos exposes Keras functionality entirely and there is no new syntax or templates to learn.
+
+<p align="center">
 <img src='https://i.ibb.co/3NFH646/keras-model-to-talos.gif' width=550px>
+</p>
