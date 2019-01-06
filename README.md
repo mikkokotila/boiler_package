@@ -27,6 +27,7 @@
 
 <p align="center">
   <a href="#Talos">Talos</a> •
+  <a href="#Talos">Benefits</a> •
   <a href="#Examples">Examples</a> •
   <a href="#Install">Install</a> •
   <a href="https://autonomio.github.io/docs_talos">Docs</a> •
@@ -44,7 +45,32 @@ Talos radically changes the ordinary Keras workflow by <strong>fully automating 
 
 ### Talos
 
-Talos is made for data scientists and data engineers that want to remain in **complete control of their Keras models**, but are tired of mindless parameter hopping and confusing optimization solutions that add complexity instead of reducing it. Within minutes, without learning any new syntax, Talos allows you to configure, perform, and evaluate hyperparameter optimization experiments that yield state-of-the-art across a range of prediction tasks, by providing the **simplest and yet most powerful** available method for hyperparameter optimization with Keras.
+Talos is made for data scientists and data engineers that want to remain in **complete control of their Keras models**, but are tired of mindless parameter hopping and confusing optimization solutions that add complexity instead of reducing it. Within minutes, without learning any new syntax, Talos allows you to configure, perform, and evaluate hyperparameter optimization experiments that yield state-of-the-art results across a wide range of prediction tasks. Talos provides the **simplest and yet most powerful** available method for hyperparameter optimization with Keras.
+
+- works with ANY Keras model
+- takes minutes to implement
+- no new syntax to learn
+- adds zero new overhead to your worflow
+
+Talos radically transforms ordinary Keras workflows without taking away any of Keras.
+
+### Benefits
+
+Based on what no doubt constitutes a "biased" review (being our own) of more than ~30 hyperparameter tuning and optimization solutions, Talos comes on top in terms of intuitive, easy-to-learn, highly permissive access to critical hyperparameter optimization capabilities. Key Talos features include:
+
+- Single-line optimize-to-predict pipeline `talos.Scan(x, y, model, params).predict(x_test, y_test)`
+- automated hyperparameter optimization
+- model generalization evaluator
+- experiment analytics 
+- Random search
+- Grid search
+- Correlation based optimization
+- Pseudo, Quasi, and Quantum Random functions
+- Model candidate generality evaluation
+- Live training monitor
+- Experiment analytics
+
+Talos works on **Linux, Mac OSX**, and **Windows** systems and can be operated cpu, gpu, and multi-gpu systems.
 
 ### Examples
 
@@ -55,7 +81,6 @@ The *Simple* example is enough to start using Talos with any Keras model. *Field
 [Concise](https://nbviewer.jupyter.org/github/autonomio/talos/blob/master/examples/Hyperparameter%20Optimization%20on%20Keras%20with%20Breast%20Cancer%20Data.ipynb)  [~5 mins]
 
 [Comprehensive](https://nbviewer.jupyter.org/github/autonomio/talos/blob/master/examples/Hyperparameter%20Optimization%20with%20Keras%20for%20the%20Iris%20Prediction.ipynb)  [~10 mins]
-
 
 [Field Report](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53)  [~15 mins]
 
