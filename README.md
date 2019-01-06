@@ -23,6 +23,7 @@
   <a href="#Key-Features">Key Features</a> •
   <a href="#Examples">Examples</a> •
   <a href="#Install">Install</a> •
+  <a href="#Install">Support</a> •
   <a href="https://autonomio.github.io/docs_talos">Docs</a> •
   <a href="https://github.com/autonomio/talos/issues">Issues</a> •
   <a href="#License">License</a> •
@@ -96,6 +97,13 @@ Stable version:
 Daily development version:
 
     pip install git+https://github.com/autonomio/talos.git@daily-dev
+
+### Support
+
+If you want ask a *"how can I use Talos to..."* or *"I'm following the examples but I'm getting this..."* the right place is [StackOverflow](https://stackoverflow.com/questions/ask). 
+
+If you found a bug or want to suggest a feature, check the [issues](https://github.com/autonomio/talos/issues) or [create](https://github.com/autonomio/talos/issues/new/choose) a new issue.
+
 
 ### License 
 
