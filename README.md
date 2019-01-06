@@ -81,7 +81,7 @@ Talos works on **Linux, Mac OSX**, and **Windows** systems and can be operated c
 
 Get the below code [here](https://gist.github.com/mikkokotila/4c0d6298ff0a22dc561fb387a1b4b0bb). More examples below.
 
-<img src=https://i.ibb.co/tZSPk5g/Screen-Shot-2019-01-06-at-11-15-27-PM.png>
+<img src=https://i.ibb.co/VWd8Bhm/Screen-Shot-2019-01-06-at-11-26-32-PM.png>
 
 The *Simple* example below is more than enough for starting to use Talos with any Keras model. *Field Report* has +2,600 claps on Medium because it's more entertaining.
 
