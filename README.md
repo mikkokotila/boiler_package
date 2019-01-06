@@ -55,11 +55,11 @@ The *Simple* example is enough to start using Talos with any Keras model.
 
 [Comprehensive](https://nbviewer.jupyter.org/github/autonomio/talos/blob/master/examples/Hyperparameter%20Optimization%20with%20Keras%20for%20the%20Iris%20Prediction.ipynb) [~10 mins]
 
-For more information on how Talos can help with your Keras workflow, visi the [User Manual](https://autonomio.github.io/docs_talos)
 
+[Field Report][~15 mins]
+(https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53)
 
-
-
+For more information on how Talos can help with your Keras workflow, visit the [User Manual](https://autonomio.github.io/docs_talos)
 
 ### Install 
 
@@ -71,16 +71,6 @@ Daily development version:
 
     pip install git+https://github.com/autonomio/talos.git@daily-dev
 
+### Hyperparameter Optimization 
 
-
-
-
-
-
-### Read a [Report on Hyperparameter Optimization with Keras](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53)
-
-### Read the [Roadmap](https://github.com/autonomio/talos/blob/master/docs/roadmap.rst)
-
-
-
-<img src=https://i.imgur.com/e9vbFjQ.png width=600px>
+We provide a detailed field report for [Report on Hyperparameter Optimization with Keras](https://towardsdatascience.com/hyperparameter-optimization-with-keras-b82e6364ca53)
