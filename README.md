@@ -28,10 +28,10 @@
 <p align="center">
   <a href="#Talos">Talos</a> •
   <a href="#Examples">Examples</a> •
-  <a href="#credits">Install</a> •
+  <a href="#Install">Install</a> •
   <a href="https://autonomio.github.io/docs_talos">Docs</a> •
-  <a href="#related">Issues</a> •
-  <a href="#license">License</a>
+  <a href="https://github.com/autonomio/talos/issues">Issues</a> •
+  <a href="#License">License</a>
 </p>
 <hr>
 <p align="center">
