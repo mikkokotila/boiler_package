@@ -45,18 +45,22 @@ Talos radically changes the ordinary Keras workflow by <strong>fully automating 
 
 ### Talos
 
-Talos is made for data scientists and data engineers that want to remain in **complete control of their Keras models**, but are tired of mindless parameter hopping and confusing optimization solutions that add complexity instead of reducing it. Within minutes, without learning any new syntax, Talos allows you to configure, perform, and evaluate hyperparameter optimization experiments that yield state-of-the-art results across a wide range of prediction tasks. Talos provides the **simplest and yet most powerful** available method for hyperparameter optimization with Keras.
+TL;DR
+
+Talos radically transforms ordinary Keras workflows without taking away any of Keras.
 
 - works with ANY Keras model
 - takes minutes to implement
 - no new syntax to learn
 - adds zero new overhead to your worflow
 
-Talos radically transforms ordinary Keras workflows without taking away any of Keras.
+Talos is made for data scientists and data engineers that want to remain in **complete control of their Keras models**, but are tired of mindless parameter hopping and confusing optimization solutions that add complexity instead of reducing it. Within minutes, without learning any new syntax, Talos allows you to configure, perform, and evaluate hyperparameter optimization experiments that yield state-of-the-art results across a wide range of prediction tasks. Talos provides the **simplest and yet most powerful** available method for hyperparameter optimization with Keras.
 
-### Benefits
+<img src=https://i.imgur.com/g8PyUsT.png width=600px>
 
-Based on what no doubt constitutes a "biased" review (being our own) of more than ~30 hyperparameter tuning and optimization solutions, Talos comes on top in terms of intuitive, easy-to-learn, highly permissive access to critical hyperparameter optimization capabilities. Key Talos features include:
+### Key Features
+
+Based on what no doubt constitutes a "biased" review (being our own) of more than ~30 hyperparameter tuning and optimization solutions, Talos comes on top in terms of intuitive, easy-to-learn, highly permissive access to critical hyperparameter optimization capabilities. Key features include:
 
 - Single-line optimize-to-predict pipeline `talos.Scan(x, y, model, params).predict(x_test, y_test)`
 - automated hyperparameter optimization
