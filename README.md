@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">Hyperparameter Optimization for Keras</h4>
+<h3 align="center">Hyperparameter Optimization for Keras</h3>
 
 <p align="center">
   
